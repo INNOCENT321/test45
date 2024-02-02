@@ -2,7 +2,7 @@
     align-items: center;
 }
 .btn{
-    margin-left: 250px;
+    margin-left: 170px;
 }
 .collapse{
     margin-left: 400px;
@@ -15,7 +15,7 @@
 }
 .navitem{
     background-image: url(img/bg\ test.png);
-    height: 900px;
+    height: 700px;
 }
 .sec2 h1{
     color: white;
@@ -24,6 +24,10 @@
     margin-top: 140px;
     margin-left: 90px;
 }
+.container-fluid a{
+    color: white;
+}
+
 .sec2 p{
     color: white;
     margin-left: 90px;
@@ -33,7 +37,84 @@
     background-color: #0a9dda;
     margin-top: 50px;
     margin-left: 90px;
+    position: relative;
 }
 .connect span{
+    margin-left: 30px;
+    color: white;
+    position: relative;
+}
+.imgc{
+    margin-left: 20px;
+}
+.Trusted h1{
+    font-size: 15px;
+    text-align: center;
     margin-top: 30px;
+}
+.Trusted img{
+    margin-left: 200px;
+}
+.border{
+    border: 2px solid yellow;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.border h1{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+.boxes{
+    height: 300px;
+    display: flex;
+    margin-top: 70px;
+}
+.box1{
+    border: 1px solid #0f303e;
+    width: 25%;
+    height: 130px;
+    color: #0f303e;
+    margin-left: 70px;
+    border-radius: 15px;
+    color: white;
+}
+.box1 img{
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.box1 p{
+    text-align: center;
+}
+.box2{
+    border: 1px solid #0f303e;
+    width: 25%;
+    height: 100px;
+    margin-left: 100px;
+    border-radius: 15px;
+}
+.box2 img{
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.box2 p{
+    color: white;
+    text-align: center;
+}
+.box3{
+    border: 1px solid #0f303e;
+    width: 25%;
+    height: 120px;
+    margin-left: 100px;
+    border-radius: 15px;
+}
+.box3 img{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+.box3 p{
+    color: white;
+    text-align: center;
 }
