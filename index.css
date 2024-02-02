@@ -1,0 +1,39 @@
+.navbar{
+    align-items: center;
+}
+.btn{
+    margin-left: 250px;
+}
+.collapse{
+    margin-left: 400px;
+}
+.dropdown-toggle{
+    margin-left: 40px;
+}
+.navbar-brand{
+    margin-left: 70px;
+}
+.navitem{
+    background-image: url(img/bg\ test.png);
+    height: 900px;
+}
+.sec2 h1{
+    color: white;
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: 140px;
+    margin-left: 90px;
+}
+.sec2 p{
+    color: white;
+    margin-left: 90px;
+    font-size: 25px;
+}
+.connect button{
+    background-color: #0a9dda;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+.connect span{
+    margin-top: 30px;
+}
